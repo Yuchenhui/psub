@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,sharepoint.com 
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX.microsoft.com 
+DOMAIN-SUFFIX,microsoft.com 
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,in.appcenter.ms
