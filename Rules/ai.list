@@ -27,8 +27,6 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,observeit.net
@@ -45,26 +43,14 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,f7tk.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,gpt3sandbox.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,sharepoint.com 
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX.microsoft.com 
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,microsoftapp.net
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
-
 
