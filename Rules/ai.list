@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,you.com
+DOMAIN-SUFFIX,pi.ai
 DOMAIN-SUFFIX,anthropic.com 
 DOMAIN-SUFFIX,claude.ai
 DOMAIN,cdn.usefathom.com
@@ -45,10 +46,13 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,callannie.ai
+DOMAIN-SUFFIX,quazel.com
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,compute-pipe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,gpt3sandbox.com
+DOMAIN-SUFFIX,heypi.com
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
