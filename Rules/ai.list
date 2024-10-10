@@ -1,8 +1,10 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,copilot
+DOMAIN-KEYWORD,huggingface
 DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.com
