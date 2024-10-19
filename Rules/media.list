@@ -334,24 +334,6 @@ DOMAIN-SUFFIX,olevod.io
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 
-# OpenAi
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-
 # PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
@@ -359,12 +341,6 @@ DOMAIN-SUFFIX,pbs.org
 # Pandora
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
-
-# Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
 
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
@@ -396,19 +372,6 @@ DOMAIN-SUFFIX,tidalhifi.com
 USER-AGENT,TaiwanGood*
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
-
-# TikTok
-USER-AGENT,TikTok*
-DOMAIN-KEYWORD,tiktokcdn
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
 
 # Twitch
 DOMAIN-KEYWORD,ttvnw
