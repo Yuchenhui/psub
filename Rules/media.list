@@ -1,7 +1,3 @@
-# 内容：国外媒体列表
-# 更新：2024-08-27 13:51:18
-# 数量：367条
-
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -373,14 +369,6 @@ USER-AGENT,TaiwanGood*
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
 
-# Twitch
-DOMAIN-KEYWORD,ttvnw
-DOMAIN-SUFFIX,ext-twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch-ext.rootonline.de
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
 
 # ViuTV
 USER-AGENT,Viu*
