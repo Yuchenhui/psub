@@ -42,6 +42,12 @@ DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,wallhaven.cc  
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,typora.io 
+DOMAIN-SUFFIX,slproweb.com
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
