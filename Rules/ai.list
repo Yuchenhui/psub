@@ -59,6 +59,9 @@ DOMAIN-SUFFIX,heypi.com
 DOMAIN-SUFFIX,univerbal.app
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,o33249.ingest.us.sentry.io
+DOMAIN-SUFFIX,http-intake.logs.datadoghq.com
+DOMAIN-SUFFIX,s.gravatar.com
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
