@@ -1,3 +1,4 @@
+PROCESS-NAME,ChatGPT.exe
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,copilot
@@ -75,7 +76,6 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
-PROCESS-NAME,ChatGPT.exe
 
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
