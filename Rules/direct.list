@@ -24,4 +24,7 @@ DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,cdn.ubi.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,bitwarden.com
-PROCESS-NAME,avp
+PROCESS-NAME,NutstoreClient.exe
+PROCESS-NAME,QQ.exe
+PROCESS-NAME,avp.exe
+PROCESS-NAME,wetype_server.exe
