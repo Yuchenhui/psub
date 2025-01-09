@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,openstack.org
 DOMAIN-KEYWORD,gitlab 
+DOMAIN-KEYWORD,nodejs
+DOMAIN-KEYWORD,npm
