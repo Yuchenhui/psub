@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,typora.io 
 DOMAIN-SUFFIX,slproweb.com
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN-SUFFIX,apkpure.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
