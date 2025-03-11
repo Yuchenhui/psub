@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,compose-spec.io
 PROCESS-NAME,Code.exe
 PROCESS-NAME,GitHubDesktop.exe
 PROCESS-NAME,idea64.exe
+PROCESS-NAME,Cursor.exe
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,archive.org
