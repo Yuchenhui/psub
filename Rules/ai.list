@@ -2,7 +2,7 @@ PROCESS-NAME,ChatGPT.exe
 PROCESS-NAME,Code.exe
 PROCESS-NAME,Cursor.exe
 PROCESS-NAME,GitHubDesktop.exe
-PROCESS-NAME,Cherry Studio.exe
+PROCESS-NAME,"Cherry Studio.exe"
 PROCESS-NAME,idea64.exe
 
 DOMAIN-KEYWORD,openai
