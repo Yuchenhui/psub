@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gitlab 
 DOMAIN-KEYWORD,nodejs
 DOMAIN-KEYWORD,npm
+DOMAIN-KEYWORD,supabase
 DOMAIN-KEYWORD,navicat
 DOMAIN-KEYWORD,slack
 PROCESS-NAME,com.docker.backend.exe
@@ -70,3 +71,4 @@ DOMAIN-SUFFIX,firecrawl.dev
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,stripe.com
+
