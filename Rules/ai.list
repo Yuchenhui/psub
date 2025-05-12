@@ -25,7 +25,7 @@ DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,sydney.bing.com
 DOMAIN,o33249.ingest.sentry.io
-
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,trae.ai
