@@ -14,11 +14,11 @@ DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,cohere
 DOMAIN-KEYWORD,hcompany
 
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,cdn.usefathom.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,aistudio.google.com
-DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.together.xyz
