@@ -1,7 +1,6 @@
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,hentai  
 DOMAIN-KEYWORD,porn
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,missav.com  
@@ -11,7 +10,6 @@ DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,beeg.com  
 DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,xhamster.com  
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,theporndude.com
 DOMAIN-SUFFIX,jable.tv
@@ -41,11 +39,7 @@ DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
-DOMAIN-SUFFIX,fanbox.cc
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hm08.lol
@@ -53,3 +47,8 @@ DOMAIN-SUFFIX,18-comicblade.vip
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,mgstage.com
+
+# Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,fanbox.cc

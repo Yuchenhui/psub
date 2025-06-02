@@ -101,7 +101,6 @@ DOMAIN-SUFFIX,dzcdn.net
 # DiscoveryPlus
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
-DOMAIN-SUFFIX,uplynk.com
 
 # DisneyPlus
 USER-AGENT,Disney*
@@ -270,16 +269,6 @@ DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,netflixdnstest0.com
-DOMAIN-SUFFIX,netflixdnstest1.com
-DOMAIN-SUFFIX,netflixdnstest2.com
-DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest4.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest6.com
-DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,nflxext.com
 DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
@@ -348,8 +337,6 @@ DOMAIN-SUFFIX,qobuz.com
 # SoundCloud
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
-DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,soundcloud.com
 
 # Spotify
 USER-AGENT,Spotify*
@@ -391,3 +378,18 @@ DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
+
+
+# Wikipedia 维基相关域名
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org

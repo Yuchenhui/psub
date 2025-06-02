@@ -5,7 +5,6 @@ PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,bing
@@ -90,3 +89,4 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+DOMAIN-SUFFIX,bing.com

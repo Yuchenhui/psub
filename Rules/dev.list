@@ -37,9 +37,6 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,myoctocat.com
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
@@ -47,7 +44,6 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,openstack.org
 DOMAIN-SUFFIX,pythonhosted.org
@@ -59,7 +55,6 @@ DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,smithery.ai
 DOMAIN-SUFFIX,jsdelivr.net
