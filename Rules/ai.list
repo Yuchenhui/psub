@@ -4,7 +4,8 @@ PROCESS-NAME,Cursor.exe
 PROCESS-NAME,GitHubDesktop.exe
 PROCESS-NAME,CherryStudio.exe
 PROCESS-NAME,idea64.exe
-
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,copilot
@@ -46,9 +47,6 @@ DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,chatpdf.com
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,pi.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,statsig.com
