@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gitlab 
 DOMAIN-KEYWORD,nodejs
+DOMAIN-KEYWORD,bitbucket
 DOMAIN-KEYWORD,npm
 DOMAIN-KEYWORD,supabase
 DOMAIN-KEYWORD,navicat
@@ -12,7 +13,6 @@ DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
 
 DOMAIN-SUFFIX,alpinelinux.org
-
 MAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
