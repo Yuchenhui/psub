@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,1984170.xyz
 DOMAIN-SUFFIX,ueepay.cc
 DOMAIN-SUFFIX,lajichang.cc
+
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,okx.com
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
