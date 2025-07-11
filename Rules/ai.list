@@ -2,7 +2,6 @@ PROCESS-NAME,ChatGPT.exe
 PROCESS-NAME,Code.exe
 PROCESS-NAME,Cursor.exe
 PROCESS-NAME,GitHubDesktop.exe
-PROCESS-NAME,CherryStudio.exe
 PROCESS-NAME,idea64.exe
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
@@ -17,19 +16,15 @@ DOMAIN-KEYWORD,hcompany
 
 DOMAIN-SUFFIX,whatismyipaddress.com
 
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,cdn.usefathom.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.together.xyz
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,sydney.bing.com
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,trae.ai
@@ -60,14 +55,11 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,f7tk.com
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,callannie.ai
@@ -84,10 +76,6 @@ DOMAIN-SUFFIX,o33249.ingest.us.sentry.io
 DOMAIN-SUFFIX,http-intake.logs.datadoghq.com
 DOMAIN-SUFFIX,s.gravatar.com
 DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
@@ -97,7 +85,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,makersuite.google.com
+
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,openai.com
