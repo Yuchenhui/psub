@@ -1,5 +1,6 @@
 DST-PORT,22
 DOMAIN-SUFFIX,ych.im
+DOMAIN-SUFFIX,defectmaker.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,alipay
@@ -34,3 +35,4 @@ PROCESS-NAME,WeChat.exe
 
 PROCESS-NAME,yuanbao.exe
 PROCESS-NAME,wpscloudsvr.exe
+
