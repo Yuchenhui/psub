@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,npm
 DOMAIN-KEYWORD,supabase
 DOMAIN-KEYWORD,navicat
 DOMAIN-KEYWORD,slack
+DOMAIN-SUFFIX,fastlydns.net
+DOMAIN-SUFFIX,fastlydns.org
 PROCESS-NAME,com.docker.backend.exe
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,developers.cloudflare.com
