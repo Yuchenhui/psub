@@ -27,6 +27,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,sydney.bing.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,augmentcode.com
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,challenges.cloudflare.com
