@@ -4,7 +4,6 @@ PROCESS-NAME,Cursor.exe
 PROCESS-NAME,GitHubDesktop.exe
 PROCESS-NAME,idea64.exe
 PROCESS-NAME,Kiro.exe
-PROCESS-NAME,Cherry Studio.exe
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
