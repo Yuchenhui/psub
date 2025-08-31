@@ -1,3 +1,4 @@
+
 DOMAIN-SUFFIX,nintendo-europe.com
 DOMAIN-SUFFIX,nintendo.be
 DOMAIN-SUFFIX,nintendo.co.jp
@@ -56,3 +57,6 @@ DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,gityx.com
 DOMAIN-SUFFIX,gog.com
+
+DOMAIN-SUFFIX,poecdn.com
+PROCESS-NAME,PathOfExile.exe
